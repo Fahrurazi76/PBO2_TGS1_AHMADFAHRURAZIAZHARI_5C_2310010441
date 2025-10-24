@@ -2,7 +2,7 @@
 
 Program Java GUI sederhana menggunakan Swing untuk memeriksa:
 - Apakah angka genap atau ganjil
-- Apakah angka merupakan bilangan prima
+
 
 Fitur:
 - Input hanya menerima angka
